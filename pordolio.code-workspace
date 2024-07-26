@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "pordolio",
+			"path": "."
+		},
+		{
+			"name": "all figma",
+			"path": "../all figma"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pordolio",
+		"liveServer.settings.port": 5501
+	}
+}
